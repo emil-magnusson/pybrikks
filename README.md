@@ -96,6 +96,6 @@ q = brikks.Search()
 q.address(streetName='Stor*', streetNumber=2, city='Stockholm')
 ```
 
-## License ##
+## License
 
-
+`pybrikks` is licensed under the MIT License - see the LICENSE file for details
